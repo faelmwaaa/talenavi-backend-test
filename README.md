@@ -17,7 +17,7 @@ This project is a REST API for managing a Todo List with advanced filtering and 
 
 ### 1. Clone the Repository
 ```bash
-git clone [YOUR REPO LINK HERE]
+git clone https://github.com/faelmwaaa/talenavi-backend-test
 cd talenavi-backend
 ```
 
