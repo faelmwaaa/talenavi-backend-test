@@ -16,7 +16,7 @@ class TodoController extends Controller
         $validated = $request->validate([
             'title' => 'required|string',
             'assignee' => 'nullable|string',
-            'due_date' => 'required|date|after_or_equal:today', // Req: cannot be in past
+            'due_date' => 'required|date|after_or_equal:today',
             'time_tracked' => 'numeric',
             'status' => ['nullable', Rule::in(['pending', 'open', 'in_progress', 'completed'])],
             'priority' => ['required', Rule::in(['low', 'medium', 'high'])],
