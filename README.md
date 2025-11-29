@@ -1,7 +1,7 @@
 # Technical Test Backend - Talenavi
 
 ## Candidate Information
-- **Name:** [YOUR NAME HERE]
+- **Name:** Rafael Bagus Pratama Hartanto
 - **Role:** Backend Developer Internship
 - **Tech Stack:** Laravel 10, MySQL, Postman
 
